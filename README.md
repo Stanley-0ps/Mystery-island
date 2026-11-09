@@ -42,13 +42,13 @@ Mystery-Island/
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/Stanley-0ps/Mystery-island.git>
 ```
 
 2. Enter the project directory:
 
 ```bash
-cd Mystery-Island
+cd Mystery-island
 ```
 
 3. Start the game:
